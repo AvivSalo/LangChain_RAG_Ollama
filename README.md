@@ -1,4 +1,4 @@
-# Langchain RAG Tutorial
+# Langchain 🦜🔗 RAG 🧠 Ollama 🦙
 
 ## Install dependencies
 
